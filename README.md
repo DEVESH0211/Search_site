@@ -12,8 +12,8 @@ Command to install Django "python -m pip install Django".
 
 **How to run:**
 Download or clone from git hub.
-Go inside the main folder which contains  manage.py file and folders like CityNames and run "python manage.py runserver"
-then enter the link present below it or simply enter"http://127.0.0.1:8000/" in your browser i.e; localhost.
+Traverse inside the main folder(i.e;Search_site-master) which contains  manage.py file and folders like CityNames and run "python manage.py runserver"
+then click on the link present below it or simply enter"http://127.0.0.1:8000/" in your browser i.e; localhost.
 
 
 **File Structure:**
